@@ -1,0 +1,6 @@
+Map Area - Orem, UT, United States (data from OpenStreetMaps.org)
+
+• https://www.openstreetmap.org/relation/198900#map=12/40.3130/-111.6300
+• https://www.openstreetmap.org/export#map=12/40.3130/-111.6300
+
+I have lived in Utah most of my life. Unfortunately, the places I have lived were too small to use for this case study. So I selected a larger town, Orem Utah.

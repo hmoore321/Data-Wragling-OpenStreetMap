@@ -1,0 +1,14 @@
+Complete code is found in jupyter file:
+	OpenStreetMap_Code_file.ipynb
+
+SQL/Python code is found in jupyter file:
+	OpenStreetMap_Db_Queries_Sqlite.ipynb
+
+.py files are in the folder:
+	py files folder
+
+Queries (ran in Sqlite) are located in:
+	Sqlite Queries folder
+
+CSV files are located in:
+	CSV files folder

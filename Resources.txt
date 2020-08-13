@@ -1,0 +1,9 @@
+https://www.tutorialspoint.com/counters-in-python
+https://docs.google.com/a/wgu.edu/viewer?a=v&pid=sites&srcid=d2d1LmVkdXxjNzUwLS0tZGF0YS13cmFuZ2xpbmd8Z3g6MWU3ZDEwYjQyMWI2MTBjYw
+https://drive.google.com/file/d/18lI6B_RLa-z2Z1-fP7vtJKCMu8QharX6/view
+https://sites.google.com/a/wgu.edu/c750---data-wrangling/example-pseudocode-1
+https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+https://github.com/M-Medhat/dand-mongodb-data-wrangling/blob/master/osm.py
+https://www.guru99.com/python-regular-expressions-complete-tutorial.html
+https://appdividend.com/2020/05/15/three-ways-to-get-file-size-in-python/
+http://wgu.libguides.com.wgu.idm.oclc.org/libhome 
